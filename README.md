@@ -9,8 +9,8 @@ Atualmente trabalho como analista de dados, com ênfase em SQL Server, SSIS, Mon
 
 <div align="center">
   <a href="https://github.com/ersjunior">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ersjunior&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersjunior&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=ersjunior&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersjunior&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Eli-SQLS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
