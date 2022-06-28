@@ -25,8 +25,8 @@ Atualmente trabalho como analista de dados, com ênfase em SQL Server, SSIS, Mon
 <!--
   <img align="center" alt="ELi-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="ELi-PR" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg">
--->
   <img align="right" alt="Eli-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQGqXn1KOB5bdg/profile-displayphoto-shrink_800_800/0/1605293150240?e=1655337600&v=beta&t=iAcxFOwba35tA4oIdj6rikQcAZIJIDIqrLZ3eXrCEsI">
+-->
 </div>
   
   ##
