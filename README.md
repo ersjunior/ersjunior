@@ -1,9 +1,9 @@
 ## Olá me chamo Eliézer Junior, crio conteúdo sobre dados e tecnologia!
 
-Atualmente trabalho como analista de dados, com ênfase em SQL Server, SSIS, MongoDB, Alteryx e Construção de Dashboards.
+Atualmente trabalho como analista de dados, com ênfase em BigQuery, SQL Server, Git, Python, e Construção de Dashboards.
 
-🔭 Estudante de Ciência de Dados </br>
-🌱 Tenho estudado Python e R </br>
+🔭 Estudante de Pós Graduação MBA em Ciência de Dados na FIAP </br>
+🌱 Tenho estudado Django, Flask e Desenvolvimento WEB </br>
 🤔 Posso colaborar com conhecimentos sobre Dados </br>
 📫 Meu contato: https://www.linkedin.com/in/eliezer-junior
 
