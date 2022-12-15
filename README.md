@@ -2,7 +2,7 @@
 
 Atualmente trabalho como analista de dados, com ênfase em BigQuery, SQL Server, Git, Python, e Construção de Dashboards.
 
-🔭 Estudante de Pós Graduação MBA em Ciência de Dados na FIAP </br>
+🔭 Estudante de Pós Graduação MBA em Ciência de Dados e Inteligência Artificial na FIAP </br>
 🌱 Tenho estudado Django, Flask e Desenvolvimento WEB </br>
 🤔 Posso colaborar com conhecimentos sobre Dados </br>
 📫 Meu contato: https://www.linkedin.com/in/eliezer-junior
