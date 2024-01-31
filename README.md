@@ -1,6 +1,6 @@
 ## Olá me chamo Eliézer Junior, crio conteúdo sobre dados e tecnologia!
 
-Atualmente trabalho como analista de dados, com ênfase em BigQuery, SQL Server, Git, Python, e Construção de Dashboards.
+Atualmente trabalho como analista de dados, com foco em Big Date, SQL, Git, Python e Construção de Dashboards.
 
 🔭 Estudante de Pós Graduação MBA em Ciência de Dados e Inteligência Artificial na FIAP </br>
 🌱 Tenho estudado Django, Flask e Desenvolvimento WEB </br>
