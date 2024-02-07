@@ -10,8 +10,8 @@ Atualmente trabalho como analista de dados, com foco em Big Date, SQL, Git, Pyth
 ### GitHub Status:
 <div align="center">
   <a href="https://github.com/ersjunior">
-  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=ersjunior&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersjunior&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ersjunior&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersjunior&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 ### Ferramentas mais utilizadas:
