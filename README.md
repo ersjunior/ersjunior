@@ -47,7 +47,8 @@ Atualmente trabalho como analista de dados, com foco em Big Date, SQL, Git, Pyth
   <img align="center" alt="ELi-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">  
   <img align="center" alt="ELi-Anaconda" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg">  
   <img align="center" alt="ELi-Jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">  
-  <img align="center" alt="ELi-Pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">  
+  <img align="center" alt="ELi-Pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"> 
+  <img align="center" alt="ELi-NumPy" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">
 </div>
   
 ### Contatos
