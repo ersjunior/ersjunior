@@ -1,10 +1,13 @@
-## Olá me chamo Eliézer Junior, crio conteúdo sobre dados e tecnologia!
+## Olá me chamo Eliézer Junior, crio conteúdo sobre Dados, Inteligência Artificial e tecnologia!
 
 Atualmente trabalho como analista de dados, com foco em Big Data, SQL, Python, Cloud, Git e Construção de Dashboards.
 
-• 🔭 Estudante de Pós Graduação MBA em Ciência de Dados e Inteligência Artificial na FIAP </br>
-• 🌱 Tenho estudado Django, Flask e Desenvolvimento WEB </br>
-• 🤔 Posso colaborar com conhecimentos sobre Dados </br>
+
+• 🔭 Graduado em Física e Banco de Dados</br>
+• 🔭 Pós Graduado em Ciência de Dados</br>
+• 🔭 Estudante de Pós Graduação em Inteligência Artificial no ICMC/USP </br>
+• 🌱 Experiência com Desenvolvimento full-stack: Django, Flask e Laravel</br>
+• 🤔 Posso colaborar com conhecimentos sobre Dados, Inteligência Artificial e Programação</br>
 • 📫 Meu contato: https://www.linkedin.com/in/eliezer-junior
 
 ### GitHub Status:
