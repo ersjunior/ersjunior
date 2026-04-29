@@ -43,10 +43,9 @@
 ## 🧠 Sobre mim
 
 Sou Analista de Dados com forte atuação em Engenharia de Dados e Inteligência Artificial, focado em construir soluções escaláveis que transformam dados em valor real para o negócio.
-
-Atuo com pipelines de dados, arquitetura escalável e aplicações orientadas a IA.
+<br>Atuo com pipelines de dados, arquitetura escalável e aplicações orientadas a IA.
 <br>🎯 **Objetivo:** evoluir para construção de sistemas autônomos baseados em agentes inteligentes e LLMs.
-<br>
+<br><br>
 
 ## 🚀 Projetos em Destaque
 
