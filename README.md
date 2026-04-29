@@ -31,16 +31,12 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersjunior&layout=compact&theme=github_dark"/>
 </p>
 
----
-
 ## 🎓 Formação
 
 * 🎓 Física
 * 🎓 Banco de Dados
 * 🎓 Pós-graduação em Ciência de Dados
 * 🎓 Pós-graduação em Inteligência Artificial — ICMC/USP (em andamento)
-
----
 
 ## 🧠 Sobre mim
 
@@ -71,8 +67,6 @@ Atuo com pipelines de dados, arquitetura escalável e aplicações orientadas a 
 * Pipeline automatizado de análise de vulnerabilidades
 * Geração automática de insights com IA
 * Foco em segurança ofensiva inteligente
-
----
 
 ## 🛠️ Tech Stack
 
