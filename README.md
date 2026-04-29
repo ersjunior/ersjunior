@@ -1,63 +1,108 @@
-## Olá me chamo Eliézer Junior, crio conteúdo sobre Dados, Inteligência Artificial e tecnologia!
+<!-- BANNER -->
 
-Atualmente trabalho como analista de dados, com foco em Big Data, SQL, Python, Cloud, Git e Construção de Dashboards.
+<p align="center">
+  <img src="assets/banner.png" alt="Banner Eliézer Junior" width="100%" />
+</p>
 
+<h1 align="center">🚀 Eliézer Junior</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=25&center=true&vCenter=true&width=600&linesData+Analyst=Data+Engineer;AI+Builder;Big+Data+Specialist;Building+Intelligent+Systems"/>
+</p>
+<p align="center">
+  <b>Data Analytics Engineer | AI Builder | Big Data Specialist</b>
+</p>
 
-• 🔭 Graduado em Física e Banco de Dados</br>
-• 🔭 Pós Graduado em Ciência de Dados</br>
-• 🔭 Estudante de Pós Graduação em Inteligência Artificial no ICMC/USP </br>
-• 🌱 Experiência com Desenvolvimento full-stack: Django, Flask e Laravel</br>
-• 🤔 Posso colaborar com conhecimentos sobre Dados, Inteligência Artificial e Programação</br>
-• 📫 Meu contato: https://www.linkedin.com/in/eliezer-junior
+<p align="center">
+  <i>Transformando dados em decisões estratégicas com Engenharia, Análise de Dados e Inteligência Artificial</i>
+</p>
 
-### GitHub Status:
-<div align="center">
-  <a href="https://github.com/ersjunior">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ersjunior&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=stars&custom_title=Minhas%20Estat%C3%ADsticas%20do%20GitHub&line_height=25&hide_border=false"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersjunior&layout=compact&langs_count=9&theme=github_dark&custom_title=Linguagens%20Mais%20Usadas&hide_border=false&card_width=300"/>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/eliezer-junior">LinkedIn</a> •
+  <a href="mailto:ersjunior@gmail.com">Email</a> •
+  <a href="https://www.youtube.com/channel/UCrqOYKmd9drRGumTiqet8ow">YouTube</a>
+</p>
 
-### Ferramentas mais utilizadas:
-<div style="display: inline_block">
+---
 
-##### IDE's Favoritas
-  <img align="center" alt="Eli-VsCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">  
-  <img align="center" alt="Eli-PyCharm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg">  
+## 🧠 Sobre mim
 
-##### Cloud's
-  <img align="center" alt="ELi-AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">  
-  <img align="center" alt="ELi-Azure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">  
-  <img align="center" alt="ELi-GCP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg">  
+Sou Analista de Dados com forte atuação em Engenharia de Dados e Inteligência Artificial, focado em construir soluções escaláveis que transformam dados em valor real para o negócio.
 
-##### Bancos de dados
-  <img align="center" alt="Eli-SQLS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">  
-  <img align="center" alt="Eli-MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">  
-  <img align="center" alt="Eli-Oracle" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">  
-  <img align="center" alt="Eli-MongoDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">  
+Atuo com pipelines de dados, arquitetura escalável e aplicações orientadas a IA.
 
-##### Linguagens de Programação
-  <img align="center" alt="Eli-C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">  
-  <img align="center" alt="Eli-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
-  <img align="center" alt="ELi-R" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg">  
-  <img align="center" alt="Eli-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
-  <img align="center" alt="Eli-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img align="center" alt="ELi-JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">  
+🎯 **Objetivo:** evoluir para construção de sistemas autônomos baseados em agentes inteligentes e LLMs.
 
-##### Framework's, Virtualização e Outras Ferramentas
-  <img align="center" alt="ELi-Django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">  
-  <img align="center" alt="ELi-Flask" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg">  
-  <img align="center" alt="ELi-Flask" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-line.svg">  
-  <img align="center" alt="ELi-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">  
-  <img align="center" alt="ELi-Anaconda" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg">  
-  <img align="center" alt="ELi-Jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="ELi-ScikitLeanr" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">
-  <img align="center" alt="ELi-Pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"> 
-  <img align="center" alt="ELi-NumPy" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">
-</div>
-  
-### Contatos
+---
+
+## 🚀 Projetos em Destaque
+
+### Plataforma de Dashboards para Clientes
+
+* Arquitetura completa para consumo de dados
+* Integração com múltiplas fontes
+* Foco em decisão estratégica
+
+### CutCast AI (IA para vídeos)
+
+* Identificação automática de cortes relevantes
+* Aplicação em podcasts e vídeos longos
+* Análise semântica com IA
+
+### Pentest Automation com LLM
+
+* Pipeline automatizado de análise de vulnerabilidades
+* Geração automática de insights com IA
+* Foco em segurança ofensiva inteligente
+
+---
+
+## 🛠️ Tech Stack
+
+#### ☁️ Cloud
+AWS • Azure • GCP
+
+#### 🗄️ Data
+SQL Server • MySQL • Oracle • MongoDB
+
+#### 🧠 Linguagens
+Python • R • JavaScript • C#
+
+#### ⚙️ Frameworks & Tools
+Django • Flask • Docker • Pandas • NumPy • Scikit-Learn
+
+#### 💻 Ambiente
+VS Code • PyCharm • Jupyter
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ersjunior&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersjunior&layout=compact&theme=github_dark"/>
+</p>
+
+---
+
+## 🎓 Formação
+
+* 🎓 Física
+* 🎓 Banco de Dados
+* 🎓 Pós-graduação em Ciência de Dados
+* 🎓 Pós-graduação em Inteligência Artificial — ICMC/USP (em andamento)
+
+---
+
+## 📫 Contato
 <div> 
   <a href="https://www.youtube.com/channel/UCrqOYKmd9drRGumTiqet8ow" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:ersjunior@gmail.com"><img src="https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eliezer-junior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+---
+
+<p align="center">
+  <i>"Sem dados, você é apenas mais uma pessoa com opinião."</i><br>
+  <b>— W. Edwards Deming</b>
+</p>
