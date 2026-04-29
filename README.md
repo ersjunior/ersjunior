@@ -6,7 +6,7 @@
 
 <h1 align="center">🚀 Eliézer Junior</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=25&center=true&vCenter=true&width=600&linesData+Analyst=Data+Engineer;AI+Builder;Big+Data+Specialist;Building+Intelligent+Systems"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=25&center=true&vCenter=true&width=600&lines=Data+Analyst=Data+Engineer;AI+Builder;Big+Data+Specialist;Building+Intelligent+Systems"/>
 </p>
 <p align="center">
   <b>Data Analytics Engineer | AI Builder | Big Data Specialist</b>
@@ -16,11 +16,11 @@
   <i>Transformando dados em decisões estratégicas com Engenharia, Análise de Dados e Inteligência Artificial</i>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/eliezer-junior">LinkedIn</a> •
-  <a href="mailto:ersjunior@gmail.com">Email</a> •
-  <a href="https://www.youtube.com/channel/UCrqOYKmd9drRGumTiqet8ow">YouTube</a>
-</p>
+<div align="center"> 
+  <a href="https://www.youtube.com/channel/UCrqOYKmd9drRGumTiqet8ow" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ersjunior@gmail.com"><img src="https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eliezer-junior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 ---
 
@@ -90,15 +90,6 @@ VS Code • PyCharm • Jupyter
 * 🎓 Banco de Dados
 * 🎓 Pós-graduação em Ciência de Dados
 * 🎓 Pós-graduação em Inteligência Artificial — ICMC/USP (em andamento)
-
----
-
-## 📫 Contato
-<div> 
-  <a href="https://www.youtube.com/channel/UCrqOYKmd9drRGumTiqet8ow" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ersjunior@gmail.com"><img src="https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eliezer-junior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
 ---
 
