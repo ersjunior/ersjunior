@@ -47,27 +47,6 @@ Sou Analista de Dados com forte atuação em Engenharia de Dados e Inteligência
 <br>🎯 **Objetivo:** evoluir para construção de sistemas autônomos baseados em agentes inteligentes e LLMs.
 <br>
 
-## 🚀 Projetos em Destaque
-
-### Plataforma de Dashboards para Clientes
-
-* Arquitetura completa para consumo de dados
-* Integração com múltiplas fontes
-* Foco em decisão estratégica
-
-### CutCast AI (IA para vídeos)
-
-* Identificação automática de cortes relevantes
-* Aplicação em podcasts e vídeos longos
-* Análise semântica com IA
-
-### Pentest Automation com LLM
-
-* Pipeline automatizado de análise de vulnerabilidades
-* Geração automática de insights com IA
-* Foco em segurança ofensiva inteligente
-
-
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud
