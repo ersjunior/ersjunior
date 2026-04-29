@@ -38,6 +38,8 @@
 * 🎓 Pós-graduação em Ciência de Dados
 * 🎓 Pós-graduação em Inteligência Artificial — ICMC/USP (em andamento)
 
+---
+
 ## 🧠 Sobre mim
 
 Sou Analista de Dados com forte atuação em Engenharia de Dados e Inteligência Artificial, focado em construir soluções escaláveis que transformam dados em valor real para o negócio.
@@ -46,7 +48,6 @@ Atuo com pipelines de dados, arquitetura escalável e aplicações orientadas a 
 
 🎯 **Objetivo:** evoluir para construção de sistemas autônomos baseados em agentes inteligentes e LLMs.
 
----
 
 ## 🚀 Projetos em Destaque
 
@@ -67,6 +68,7 @@ Atuo com pipelines de dados, arquitetura escalável e aplicações orientadas a 
 * Pipeline automatizado de análise de vulnerabilidades
 * Geração automática de insights com IA
 * Foco em segurança ofensiva inteligente
+
 
 ## 🛠️ Tech Stack
 
