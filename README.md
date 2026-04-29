@@ -6,7 +6,7 @@
 
 <h1 align="center">🚀 Eliézer Junior</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=25&center=true&vCenter=true&width=600&lines=Data+Analyst=Data+Engineer;AI+Builder;Big+Data+Specialist;Building+Intelligent+Systems"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=25&center=true&vCenter=true&width=600&lines=Data+Analyst;Data+Engineer;AI+Builder;Big+Data+Specialist;Building+Intelligent+Systems"/>
 </p>
 <p align="center">
   <b>Data Analytics Engineer | AI Builder | Big Data Specialist</b>
@@ -21,6 +21,24 @@
   <a href = "mailto:ersjunior@gmail.com"><img src="https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eliezer-junior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ersjunior&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersjunior&layout=compact&theme=github_dark"/>
+</p>
+
+---
+
+## 🎓 Formação
+
+* 🎓 Física
+* 🎓 Banco de Dados
+* 🎓 Pós-graduação em Ciência de Dados
+* 🎓 Pós-graduação em Inteligência Artificial — ICMC/USP (em andamento)
 
 ---
 
@@ -58,38 +76,20 @@ Atuo com pipelines de dados, arquitetura escalável e aplicações orientadas a 
 
 ## 🛠️ Tech Stack
 
-#### ☁️ Cloud
+### ☁️ Cloud
 AWS • Azure • GCP
 
-#### 🗄️ Data
+### 🗄️ Data
 SQL Server • MySQL • Oracle • MongoDB
 
-#### 🧠 Linguagens
+### 🧠 Linguagens
 Python • R • JavaScript • C#
 
-#### ⚙️ Frameworks & Tools
+### ⚙️ Frameworks & Tools
 Django • Flask • Docker • Pandas • NumPy • Scikit-Learn
 
-#### 💻 Ambiente
+### 💻 Ambiente
 VS Code • PyCharm • Jupyter
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ersjunior&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersjunior&layout=compact&theme=github_dark"/>
-</p>
-
----
-
-## 🎓 Formação
-
-* 🎓 Física
-* 🎓 Banco de Dados
-* 🎓 Pós-graduação em Ciência de Dados
-* 🎓 Pós-graduação em Inteligência Artificial — ICMC/USP (em andamento)
 
 ---
 
