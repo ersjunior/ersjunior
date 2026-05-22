@@ -1,11 +1,12 @@
 <!-- BANNER -->
 <h1 align="center">🚀 Eliézer Junior</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=25&center=true&vCenter=true&width=600&lines=Data+Analyst;Data+Engineer;AI+Builder;Big+Data+Specialist;Building+Intelligent+Systems"/>
-</p>
 
 <p align="center">
   <img src="assets/banner.png" alt="Banner Eliézer Junior" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=25&center=true&vCenter=true&width=600&lines=Data+Analyst;Data+Engineer;AI+Builder;Big+Data+Specialist;Building+Intelligent+Systems"/>
 </p>
 
 <p align="center">
