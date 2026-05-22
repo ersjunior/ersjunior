@@ -21,7 +21,6 @@
   <a href = "mailto:ersjunior@gmail.com"><img src="https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eliezer-junior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-  ![Visitas no perfil](https://komarev.com/ghpvc/?username=ersjunior&style=for-the-badge&color=C96342&label=VISITAS)
 
 ---
 
